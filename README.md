@@ -1,6 +1,6 @@
 # Evidence weighting in model probabilities
 
-[Read the research abstract (PDF, author preprint)](abstract.pdf)
+Accepted to the AAAI-27 Student Abstract and Poster Program. [Read the research abstract (PDF, author preprint)](abstract.pdf)
 
 Suppose 48 of 64 reports favor YES. If each report is 55% reliable, the reports are independent given the outcome, and YES and NO are equally likely at the start, the probability of YES is 0.998. TypeSafe's Jev gave 0.762 on average with its Noul probability readout (95% bootstrap interval 0.732 to 0.788). In separate yes/no questions about individual reports, Jev identified 33,039 of 33,048 correctly.
 
